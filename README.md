@@ -61,6 +61,22 @@ On the large data end of the scale, distributed knowledge graphs become possible
 
 Somewhere int he middle there are many other solutions that facilitate open data. 
 
+
+&nbsp;
+## But why? 
+**Linked data** and many associated ideas have been around for two decades or more. Doesn't it show that they are not needed? 
+After, all we have been doing fine without them all that time. 
+
+In many high level disussions of current UK Civil Service problems the data and its disconnected nature come up as a key problem. 
+We have UK Digital Strategy, National Data Strategy, other documents including National Audit Office report poitning at an important problem. 
+Our data is not linked. Of course they don't mean that the data is not *linked data*! Still, **linked data** addresses many of the challenges highlighted. 
+
+It is not necessarily the easiest technology. The tooling, while improving, is still somewhat lacking. But it might just be the right answer 
+to the problems we are facing on the way to achiving our ambitions. 
+
+(Some more conrete links and quotes would be helpful above). 
+
+
 &nbsp;
 ## Linked Data Community
 Over the last decade or so a lot of people tried to use **linked data** in civil service applications. 
