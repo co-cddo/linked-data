@@ -1,3 +1,6 @@
+[![Generic badge](https://img.shields.io/badge/license-OGL--UK--3.0-blue.svg)](LICENSE.md)
+
+&nbsp;
 # Linked Data Community Place
 
 Hello, and welcome! This is a starting point for a cross government Linked Data Community. 
